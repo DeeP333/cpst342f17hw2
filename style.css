@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
 /**
  * CSS Reset by Eric Meyer
  */
@@ -74,7 +76,7 @@ h1 {
 	font-size: 20px;
 	color: #fff;
 	font-weight: 300;
-	font-family: 'Times New Roman', serif;
+	font-family: Merriweather,'Times New Roman', serif;
     width: 100%;
 	background: #ccc;
     /*box-sizing: border-box;
@@ -84,7 +86,7 @@ h2 {
     font-size: 18px;
 	color: #333;
 	font-weight: 100;
-    font-family: 'Arial', sans-serif;
+    	font-family: Roboto, Arial, sans-serif;
 
     margin-bottom: 30px;
 }
